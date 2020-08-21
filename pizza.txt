@@ -1,1 +1,2 @@
 go Pizza shop and order Pizza
+select from dominos
